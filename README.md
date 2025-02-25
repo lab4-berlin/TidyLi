@@ -10,9 +10,9 @@ TidyLi is a productivity tool that helps professionals **clean up their LinkedIn
 
 ## Why Use TidyLi?
 
-✅ Too many irrelevant LinkedIn connections? Trim the excess.  
-✅ Need a cleaner, more relevant network? Declutter easily.  
-✅ Want to focus on quality over quantity? TidyLi makes it simple.  
+- Too many irrelevant LinkedIn connections? Trim the excess.  
+- Need a cleaner, more relevant network? Declutter easily.  
+- Want to focus on quality over quantity? TidyLi makes it simple.  
 
 Our App is **API-compliant**, does **not store any user data**, and operates securely with **LinkedIn OAuth authentication**.
 

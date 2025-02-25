@@ -1,0 +1,5 @@
+backend/.env
+backend/.env_old
+data/*
+.idea/
+backend/linkedin_cookies.*
