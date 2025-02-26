@@ -11,21 +11,12 @@ export interface Profile {
 }
 
 export interface Message {
-  conversationId: string;
-  title: string;
-  from: string;
-  senderProfileUrl: string;
-  to: string;
-  recipientProfileUrls: string;
+  text: string;
   date: string;
-  subject: string;
-  content: string;
-  folder: string;
-  isDraft: boolean;
-  isConversationDraft: boolean;
+  isOutgoing?: boolean;
 }
 
-export type Decision = 'keep' | 'remove';
+export type Decision = 'keep' | 'remove' | 'pending';
 
 export interface ProfileDecision {
   profileUrl: string;

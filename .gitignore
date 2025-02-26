@@ -4,6 +4,9 @@ data/*
 .idea/
 backend/linkedin_cookies.*
 
+backend/.DS_Store
+.DS_Store
+
 frontend/dist/*
 frontend/data/*
 
